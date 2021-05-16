@@ -1,0 +1,19 @@
+.accountdtls{
+    width: 100%;
+}
+
+.accountdtls agggregation{
+width: 100%;
+opacity: 1;
+}
+
+.accountdtls p{
+    background-color: #85d7f8;
+    color: #000066;
+    text-align: left;
+    padding-left: 5%;
+}
+
+.accountdtls span{
+    color: red;
+  }
